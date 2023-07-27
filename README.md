@@ -28,7 +28,7 @@ cd django-orm-app
 
 ## PROGRAM
 
-###TO CREATE models.py
+### TO CREATE models.py
 
 from django.db import models
 from django.contrib import admin
